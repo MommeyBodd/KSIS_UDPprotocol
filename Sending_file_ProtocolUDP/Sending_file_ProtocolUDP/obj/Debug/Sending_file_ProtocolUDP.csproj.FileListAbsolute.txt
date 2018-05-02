@@ -1,0 +1,7 @@
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\bin\Debug\Sending_file_ProtocolUDP.exe.config
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\bin\Debug\Sending_file_ProtocolUDP.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\bin\Debug\Sending_file_ProtocolUDP.pdb
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\obj\Debug\Sending_file_ProtocolUDP.csprojResolveAssemblyReference.cache
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\obj\Debug\Sending_file_ProtocolUDP.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\obj\Debug\Sending_file_ProtocolUDP.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\Sending_file_ProtocolUDP\Sending_file_ProtocolUDP\obj\Debug\Sending_file_ProtocolUDP.pdb
