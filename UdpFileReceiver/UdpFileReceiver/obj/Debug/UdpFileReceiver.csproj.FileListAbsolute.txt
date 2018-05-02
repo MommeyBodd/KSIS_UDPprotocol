@@ -1,0 +1,7 @@
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\bin\Debug\UdpFileReceiver.exe.config
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\bin\Debug\UdpFileReceiver.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\bin\Debug\UdpFileReceiver.pdb
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.pdb
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_UDPprotocol\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.csprojResolveAssemblyReference.cache
